@@ -1,4 +1,4 @@
-# rr_challenge
+# Chat_app     (Naman-mahi)
 
 ![alt tag](https://user-images.githubusercontent.com/22341088/32709405-27d9da74-c7fe-11e7-9578-b40fefddfc77.png)
 
@@ -15,7 +15,7 @@ Features:
 
 ### Installing
 ```
-git clone https://github.com/TimothyIp/rr_challenge.git .
+git clone https://github.com/Naman-mahi/chat_app.git .
 npm install
 cd server (server has own dependencies)
 npm install
